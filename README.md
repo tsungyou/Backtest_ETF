@@ -4,7 +4,8 @@
 
 用00713加權方法重新對0056加權，比較選股邏輯不變情況下報酬差異，給出結論
 
-
+V1 圖片:
+![image](https://github.com/tsungyou/Backtest_ETF/calculation/comp_c1.png)
 ### Database Implementation
 Database
 * Historical stock price
