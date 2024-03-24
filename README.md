@@ -4,6 +4,14 @@
 
 用00713加權方法重新對0056加權，比較選股邏輯不變情況下報酬差異，給出結論
 
+### Main
+最小變異數x蒙地卡羅方法找投資組合變異數最小的權重組合
+* Minimum Variance Portfolio
+  ```sh
+  cd '.\calculation\'
+  minimum_variance_portfolio.ipynb
+  ```
+
 V1 圖片:
 
 ![image](https://github.com/tsungyou/Backtest_ETF/blob/main/calculation/comp_c1.png)
@@ -14,14 +22,6 @@ V1 圖片:
   ```sh
   cd '.\calculation\'
   backtest_var_weighted.ipynb
-  ```
-
-### Minimum Variance Portfolio
-最小變異數x蒙地卡羅方法找投資組合變異數最小的權重組合
-* Minimum Variance
-  ```sh
-  cd '.\calculation\'
-  minimum_variance_portfolio.ipynb
   ```
 
 ### Database Implementation
