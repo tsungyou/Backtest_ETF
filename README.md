@@ -15,17 +15,16 @@
 
 V1 圖片:
 
-![image](https://github.com/tsungyou/Backtest_ETF/blob/main/calculation/charts/v1_comp_100.png)
+![image](https://github.com/tsungyou/Backtest_ETF/blob/main/charts/v1_comp_100.png)
+
 
 最大回撤線:
 
-![image](https://github.com/tsungyou/Backtest_ETF/blob/main/calculation/charts/max_drawdown.png)
+![image](https://github.com/tsungyou/Backtest_ETF/blob/main/charts/max_drawdown.png)
 
 季報酬共變異數:
 
-![image](https://github.com/tsungyou/Backtest_ETF/blob/main/calculation/charts/seasonal_cav_heatmap.png)
-
-![image](https://github.com/tsungyou/Backtest_ETF/blob/main/calculation/comp_c1.png)
+![image](https://github.com/tsungyou/Backtest_ETF/blob/main/charts/seasonal_cav_heatmap.png)
 
 ### Backtest System
 以標準差加權，不是最小變異數，但或許可以以1/變異數為加權概念找低波、非高息(高息透過選股達成) 組合
