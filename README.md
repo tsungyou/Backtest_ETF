@@ -5,15 +5,6 @@
 用00713加權方法重新對0056加權，比較選股邏輯不變情況下報酬差異，給出結論
 
 報酬線(Montecarlo = 100):
-### Main
-最小變異數x蒙地卡羅方法找投資組合變異數最小的權重組合
-* Minimum Variance Portfolio
-  ```sh
-  cd '.\calculation\'
-  minimum_variance_portfolio.ipynb
-  ```
-
-V1 圖片:
 
 ![image](https://github.com/tsungyou/Backtest_ETF/blob/main/charts/v1_comp_100.png)
 
@@ -25,6 +16,15 @@ V1 圖片:
 季報酬共變異數:
 
 ![image](https://github.com/tsungyou/Backtest_ETF/blob/main/charts/seasonal_cav_heatmap.png)
+
+### Main
+最小變異數x蒙地卡羅方法找投資組合變異數最小的權重組合
+* Minimum Variance Portfolio
+  ```sh
+  cd '.\calculation\'
+  minimum_variance_portfolio.ipynb
+  ```
+
 
 ### Backtest System
 以標準差加權，不是最小變異數，但或許可以以1/變異數為加權概念找低波、非高息(高息透過選股達成) 組合
