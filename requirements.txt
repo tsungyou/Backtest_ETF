@@ -1,0 +1,8 @@
+yfinance
+matplotlib
+pandas
+numpy
+datetime
+ipykernel
+openpyxl
+statsmodels
